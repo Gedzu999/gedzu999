@@ -8,12 +8,10 @@
 
 <!-- Lewa kolumna: Badge jako obrazek + sociale -->
 <div align="left">
-  <!-- Badge jako obrazek -->
   <a href="https://tryhackme.com/p/gedzu" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/gedzu.png" alt="TryHackMe Badge" />
   </a>
 
-  <!-- Ikony kontaktowe -->
   <div style="margin-top: 10px;">
     <a href="https://www.linkedin.com/in/patrykwawrzyniak/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
