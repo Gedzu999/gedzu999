@@ -8,7 +8,7 @@
 
 <!-- Badge TryHackMe -->
 <a href="https://tryhackme.com/p/gedzu" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Gedzu.png" alt="Your Image Badge" /> />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Gedzu.png" alt="Your Image Badge" />
 </a>
 
 <!-- Ikony kontaktowe -->
