@@ -19,5 +19,4 @@
   <a href="mailto:pwawrzyniak780@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gedzu.png)](https://tryhackme.com/p/gedzu)
+</div> [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gedzu.png)](https://tryhackme.com/p/gedzu)
