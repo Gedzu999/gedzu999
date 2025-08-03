@@ -6,13 +6,18 @@
 
 <p align="left">Beyond cybersecurity, I’m passionate about film editing and montage, and I enjoy staying active by hitting the gym regularly. I’m always eager to learn, connect, and collaborate on exciting projects!</p>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gedzu.png)](https://tryhackme.com/p/gedzu)
-
+<!-- Lewy panel: Badge + Ikony -->
 <div align="left">
-  <a href="https://www.linkedin.com/in/patrykwawrzyniak/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:pwawrzyniak780@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+  <!-- Badge TryHackMe (iframe) -->
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4079919" width="300" height="200" style="border:none;"></iframe>
+
+  <!-- Ikony kontaktowe -->
+  <div style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/patrykwawrzyniak/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="mailto:pwawrzyniak780@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
+  </div>
 </div>
